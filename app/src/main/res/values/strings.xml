@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MailUygulamasi</string>
+    <string-array name="mail_listesi">
+        <item>1. Mail</item>
+        <item>2. Mail</item>
+        <item>3. Mail</item>
+        <item>4. Mail</item>
+
+    </string-array>
+    <string-array name="mail_icerik">
+        <item>1. Mail içeriği</item>
+        <item>2. Mail içeriği</item>
+        <item>3. Mail içeriği</item>
+        <item>Android; Google ve Open Handset Alliance tarafından,
+            mobil cihazlar için geliştirilmekte olan, Linux tabanlı
+            özgür ve ücretsiz bir işletim sistemidir. Sistem açık kaynak kodlu olsa da,
+            kodlarının ufak ama çok önemli bir kısmı Google tarafından kapalı tutulmaktadır.</item>
+    </string-array>
+
+    <color name="primary">#006064</color>
+    <color name="primary_dark">#00BCD4</color>
+</resources>
